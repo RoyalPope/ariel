@@ -1,0 +1,12 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background: url(football.jpg);
+    background-size: cover;
+}
+
+.login{
+    margin: auto;
+    text-align: center;
+    margin-top: 100px;
+}

@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(football.jpg);
+    background-size: cover;
+}
+
+.links {
+ display: block;
+ padding: 10px;
+ margin: 30px;
+ 
+ position: absolute;
+ bottom: 70%;
+ 
+
+
+}
+
+.links a{
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: rgb(212, 207, 214);
+}
+
+.links a:hover{
+    text-decoration: underline;
+    
+   
+}
+
+.kaine{
+    
+    text-align: center;
+    margin-top: 0%;
+}
+
+.ann{
+    position: absolute;
+    left: 70%;
+    bottom: 70%;
+    right: 10%;
+}
